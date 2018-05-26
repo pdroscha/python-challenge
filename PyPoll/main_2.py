@@ -32,7 +32,6 @@ with open(load_file) as election_data:
 
     print()
     print()
-    print()
     print("Election Results")
     print("-------------------------")
     print("Total Votes " + str(votes))

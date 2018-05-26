@@ -68,5 +68,3 @@ with open(output_file, "w", newline="") as txt_file:
     txt_file.write("\n")
     txt_file.write("-------------------------")
     txt_file.write("\n")
-
-print("sup")
